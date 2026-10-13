@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.myvenv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset folders
+data/
+dataset/
+datasets/
+
+# Log and temporary files
+*.log
+logs/
+tmp/
+temp/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+
+
